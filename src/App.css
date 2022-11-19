@@ -13,6 +13,37 @@
   }
 }
 
+body{
+  font-family: 'nanumsquare';
+}
+
+.black-nav {
+  background: #000;
+  color: white;
+  padding: 20px;
+  width: 100%;
+  display: flex;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.immg{
+  padding-top: 50px;
+}
+
+.list{
+  margin-top: 30px;
+  text-align: left;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.btn{
+  color: white;
+  background-color: #282c34;
+  margin-top: 20px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
